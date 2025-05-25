@@ -49,7 +49,7 @@
         const roles = [
             'Software Developer | Problem Solver | Tech Enthusiast',
             'Frontend Developer | Spring Boot Expert | MongoDB Specialist',
-            'LeetCode Solver | Competitive Programmer | Hackathon Winner'
+            'LeetCode Solver | Competitive Programmer | Open Source Contributor',
         ];
         
         let currentRole = 0;
